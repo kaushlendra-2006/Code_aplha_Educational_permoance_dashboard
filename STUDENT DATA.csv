@@ -1,0 +1,15 @@
+﻿StudentID,Class,Subject,Marks,Attendance,Result
+1,10,Math,75,85,Pass
+2,10,Science,60,78,Pass
+3,10,English,82,90,Pass
+4,10,Math,55,70,Pass
+5,10,Science,68,80,Pass
+6,9,English,74,88,Pass
+7,9,Math,90,95,Pass
+8,9,Science,35,65,Fail
+9,9,English,67,75,Pass
+10,9,Math,72,82,Pass
+11,10,Science,88,92,Pass
+12,10,English,91,96,Pass
+13,9,Math,30,68,Fail
+14,9,Science,77,85,Pass
